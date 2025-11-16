@@ -37,6 +37,15 @@ You can also [compile](https://github.com/x64dbg/x64dbg/wiki/Compiling-the-whole
 
 This is a community effort and we accept pull requests! See the [CONTRIBUTING](.github/CONTRIBUTING.md) document for more information. If you have any questions you can always [contact us](https://x64dbg.com/#contact) or open an [issue](https://github.com/x64dbg/x64dbg/issues). You can take a look at the [good first issues](https://easy.x64dbg.com/) to get started.
 
+### How does `x64dbg` work under the hood?
+
+Check out this interactive walkthrough of the `x64dbg` codebase on CodeCanvas [here](https://www.code-canvas.com/?session=unauthenticatedGithub&repo=x64dbg&owner=Abdulnaser97&branch=codecanvas-diagram-1763329468506&OnboardingTutorial=true).
+
+To refine existing dataflow simulation or create new ones, follow the quick tutorial [here](https://docs.code-canvas.com/updating-diagram).
+
+<img width="1916" alt="CodeCanvas Screenshot" src="https://codecanvas-media-public.s3.amazonaws.com/images/codecanvas-readme-screenshot.png" />
+
+
 ## Credits
 
 - Debugger core by [TitanEngine Community Edition](https://github.com/x64dbg/TitanEngine)
